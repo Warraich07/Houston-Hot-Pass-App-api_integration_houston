@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "612634040099",
+    "project_id": "houston-user-side",
+    "storage_bucket": "houston-user-side.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612634040099:android:6805f4d782bace96d61e96",
+        "android_client_info": {
+          "package_name": "com.houstan_hot_pass.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9t5wMxx6kZ-EfkB6PsS8goPlyMf8oJ6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
