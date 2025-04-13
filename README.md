@@ -1,16 +1,18 @@
-# houstan_hot_pass
+📱 Houston Hotpass - Mobile App Summary
+👤 User App
+The Houston Hotpass User App allows users to explore and redeem exclusive discounts at curated Houston restaurants and businesses through a monthly subscription.
+Core Features:
 
-A new Flutter project.
+🔐 Sign up/Sign in with profile customization
 
-## Getting Started
+🏷️ Explore local offers with filters, search, and location-based suggestions
 
-This project is a starting point for a Flutter application.
+🎟️ Redeem discounts using time-bound QR codes or unlimited passes
 
-A few resources to get you started if this is your first Flutter project:
+📖 View redemption history and associated restaurant blogs
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+💳 Subscribe via Apple, Google, or PayPal for access to perks
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📍 Map integration to discover nearby participating venues
+
+🛠 Admin support for reverting accidental redemptions
